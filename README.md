@@ -5,13 +5,13 @@
 - 📫 How to reach me ... --->
 
 I’m Jan, and this is my Repository
-- Until now, I was a Student of Computer Science at Otto Friedrich University Bamberg. Before that, I worked as a Game Designer.
+- Until recently, I was a Master Student of Computer Science at Otto Friedrich University Bamberg. Before that, I worked as a Game Designer.
 You can see a short overview here: [Lebenslauf_22E.pdf](https://github.com/UB-JM/UB-JM/files/8134429/Lebenslauf_22E.pdf)
 - My interests are video games, random facts, AI, and cooking. 
-- I’m currently improving my python and Haskell skills (the latter really need work)
+- I’m currently improving my python and Haskell skills (the latter need work)
 - I am also currently looking for a new Job 
 - You can reach me through LinkedIn: https://www.linkedin.com/in/jan-martin-a333a124/
-
+- Video Project from my Master Studies: https://www.youtube.com/watch?v=ZsNYShTHSU4 (German, created with Blender and a Team of 3)
 
 <!---
 UB-JM/UB-JM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
