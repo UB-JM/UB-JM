@@ -6,7 +6,7 @@
 
 I’m Jan, and this is my Repository
 - Until recently, I was a Master Student of Applied Computer Science at Otto Friedrich University Bamberg. Before that, I worked as a Game Designer.
-You can see a short overview here: [Lebenslauf_22E.pdf](https://github.com/UB-JM/UB-JM/files/8134429/Lebenslauf_22E.pdf)
+You can find a short overview in this repository.
 - My interests are video games, random facts, AI, and cooking. 
 - I’m currently improving my python and Haskell skills (the latter need work)
 - I am also currently looking for a new Job 
