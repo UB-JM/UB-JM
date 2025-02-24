@@ -8,7 +8,8 @@ I’m Jan, and this is my Repository
 <!--- - Until recently, I was a Master Student of Applied Computer Science at Otto Friedrich University Bamberg. Before that, I worked as a Game Designer. ---> 
 I'm a Software Developer based in Germany. 
 My work experience is in Python (backend) and Javascript (specifically react, vue, typescript), mostly for small German startups. 
-Earlier, I graduated with a Master in Computer Science from University Bamberg.  
+My last employment included working on Applications for Digital Tachograph cards, with the result being visible at https://kgk.dekra.de/ amongst others. (TüV SÜD, Dekra, etc.)
+I studied and graduated with a Master in Computer Science from University Bamberg after working in Game Development for 2.5 years. 
 You can find a short overview in this repository.
 - My interests are games (I used to work as a Game Designer before my Studies), random facts, and cooking. 
 - Professionally, I quite like concepts of classic/general AI, and am interested in learning more about Quantum Computing.
